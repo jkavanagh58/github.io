@@ -1,0 +1,23 @@
+body {
+	background-color: lightslategray;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 12pt;
+	color: black;
+}
+h1 {
+	background-color: darkblue;
+	color: yellow;
+	font-weight: bold;
+	font-size: 18pt;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+div {
+	border: whitesmoke;
+}
+blockquote {
+	background-color: blue;
+	color: white;
+	lighting-color: darkgray;
+	font-size: 12pt;
+	border: 12pt border-style slateblue;
+}
