@@ -9,7 +9,9 @@ h1 {
 	color: yellow;
 	font-weight: bold;
 	font-size: 18pt;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	line-height: 42pt;
+	text-indent: 12pt
 }
 div {
 	border: whitesmoke;
@@ -20,4 +22,5 @@ blockquote {
 	lighting-color: darkgray;
 	font-size: 12pt;
 	border: 12pt border-style slateblue;
+	line-height: 32pt;
 }
